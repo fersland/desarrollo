@@ -1,8 +1,8 @@
 <?php
 
     class Persona {
-        public $nombres = 'Fernando Dionicio Reyes Noboa';
-        public $edad = 32;
+        public $nombres = 'Becky Rebecca Reyes Noboa';
+        public $edad = 4;
 
         public function setNombres(string $nombres) : self {
             $this->nombres = $nombres;
